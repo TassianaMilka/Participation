@@ -1,6 +1,6 @@
-/*Declaração de variaveis */
-let dados = ["André Rocha", "Beatriz Souza"];
-let informacao = [{
+
+/*let dados = ["André Rocha", "Beatriz Souza"];*/
+let dados = [{
 
     titulo: "André Rocha",
     descricao: "André Rocha é um paraatleta brasileiro que inspira com sua história de superação e dedicação ao esporte.Após um acidente que o deixou tetraplégico, ele encontrou no lançamento de disco e arremesso de peso uma forma de seguir em frente e alcançar seus objetivos. Com diversas medalhas em competições nacionais e internacionais, incluindo ouro em Mundiais e bronze nas Paralimpíadas de Paris 2024, André Rocha é um exemplo de que com determinação e força   de vontade é possível conquistar grandes feitos, mesmo diante das maiores adversidades."              
