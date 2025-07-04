@@ -1,0 +1,1 @@
+Descrição de sobre como resolver na "máquina minha funciona e na sua não" da utilização do software Docker e como adicionar no GitHub utilizando e adicionando o Docker do compartilhamento. 
