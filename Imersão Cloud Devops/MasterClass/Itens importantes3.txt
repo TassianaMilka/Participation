@@ -1,0 +1,25 @@
+Descrição Cloud DevOps
+
+Evolução de cascata em 80 para 90 do melhor processos, 2001  manifesto ágil atráves   a colaboração desenvolvedores,teste,análisa financeiro,em 2009 Paul Hammond e John Allspaw como gerar mais 10 deploy ao mesmo tempo  e Patrick Debois em 2009"vantagem é trabalhamos no sistema".
+
+Diferença
+
+Time de desenvolvimento(desenvolvimento) e operação(Infraestrutura).
+
+DevOps foca em pessoa como resolver.
+
+Planejar,codificar,liberar,implantar,integração contínua e entrega contínua,infraestrutura como código e oportunidades.
+
+O que é DevOps?
+
+Uma abordagem cultural que integração Dev e Ops para automizar processos,acelerar entrega.
+
+Como surgiu?
+
+Antes o Devops(modelo linear),arito entre equipes(Dev vs Ops),primeira menção(2009-Flickr) e primeira conferência(DevOpsDays).
+
+
+
+Quais são os benefícios?
+
+Redução de riscos,melhoria qualidade das Entregas,mais agilidade,cultura de aprendizado continuo,aumenta produtividade e fortalece resiliência.
